@@ -1,5 +1,7 @@
-# Data-Science-Portfolio
-A collection of data science projects.
+# Data Science Portfolio
+A current work in progress. Initial aims are to develop several end-to-end projects demonstrating data science skills and document much of the learning that takes place along the way. 
+
+(Last updated: 6/2/26)
 
 # Education
 
