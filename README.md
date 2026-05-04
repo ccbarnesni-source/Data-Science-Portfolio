@@ -4,7 +4,7 @@ A collection of personal projects and a place to document my own learning.
 (Last updated: 20/4/26)
 
 ## Project 1
-Implementation of standard ML algorithms in Python using only numpy and pandas. A heavily improved version of an MSc coursework piece. Sklearn models are used to compare accuracy and performance. Task 1 involves a regression task using ordinary least squares, ridge and lasso regression. Task 2 involves implementing kNN, random forests and SVMs. Task 3 invovles logistic regression and kernelised SVMs. As of 20th April, the linear regression models and KNN are complete to a satisfactory level. The RF, SVM and logisitic regression models remain incomplete.
+Implementation of standard ML algorithms in Python using only numpy and pandas. A heavily improved version of an MSc coursework piece. Sklearn models are used to compare accuracy and performance. Task 1 involves a regression task using ordinary least squares, ridge and lasso regression. Task 2 involves implementing kNN, random forests and SVMs. Task 3 invovles logistic regression and kernelised SVMs. As of 4th May 2026, the linear regression models and KNN are complete to a satisfactory level. The logsitic regression model is almost complete minus a few small writeups. The RF and SVM models remain incomplete.
 
 # Education
 
